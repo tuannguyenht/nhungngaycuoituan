@@ -1,31 +1,36 @@
 ---
-layout: base
+layout: default
+class: 'page-template'
 ---
+<!-- < default -->
 
-{% include header.html type="page" %}
+<!-- This is a page template. A page outputs content just like any other post, and has all the same -->
+    <!-- attributes by default, but you can also customise it to behave differently if you prefer.  -->
 
-<div class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}" role="main">
-  <div class="row">
-    <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 {% endif %}">
-      {% if page.before-content %}
-        <div class="before-content">
-          {% for file in page.before-content %}
-            {% include {{ file }} %}
-          {% endfor %}
-        </div>
-      {% endif %}
+<!-- Everything inside the #post tags pulls data from the page -->
+<!-- #post -->
 
-      {{ content }}
+<header class="main-header post-head {% if page.cover %}" style="background-image: url({{ site.baseurl }}{{ page.cover }}){% else %}no-cover{% endif %}">
+    <nav class="main-nav {% if page.cover %}overlay{% endif %} clearfix">
+        {% if page.logo %}<a class="blog-logo" href="{{ site.baseurl }}"><img src="{{ site.baseurl }}{{ page.logo }}" alt="Blog Logo" /></a>{% endif %}
+        {% if page.navigation %}
+            <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
+        {% endif %}
+    </nav>
+</header>
 
-      {% if page.after-content %}
-        <div class="after-content">
-          {% for file in page.after-content %}
-            {% include {{ file }} %}
-          {% endfor %}
-        </div>
-      {% endif %}
+<main class="content" role="main">
+    <article class="post">
+        <!-- Everything inside the #post tags pulls data from the post -->
 
-      {% include comments.html %}
-    </div>
-  </div>
-</div>
+        <header class="post-header">
+            <h1 class="post-title">{{ page.title }}</h1>
+        </header>
+
+        <section class="post-content">
+            {{ content }}
+        </section>
+
+    </article>
+</main>
+<!-- /post -->
