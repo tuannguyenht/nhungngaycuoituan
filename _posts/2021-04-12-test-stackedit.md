@@ -1,4 +1,17 @@
-﻿# Welcome to StackEdit!
+﻿---
+layout: post
+cover: 'assets/images/cover6.jpg'
+navigation: True
+title: Test stackedit
+date: 2021-04-12 10:18:00
+tags: fiction
+subclass: 'post tag-fiction'
+logo: 'assets/images/ghost.png'
+author: edgar
+categories: edgar
+---
+
+# Welcome to StackEdit!
 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar. Thử test tiếng việt với stackedit.
 
