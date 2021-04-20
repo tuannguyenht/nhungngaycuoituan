@@ -9,10 +9,9 @@ words_per_minute: 200
 baseurl: /
 
 # Website info
-#assets/images/blog-cover.jpg
 title: Weekends
 description: Những ngày cuối tuần
-cover: "https://lh3.googleusercontent.com/dENMhX0lWAhKhjTZQD47cBW3dY4F68BA0qz3lMbdEQIpBg607KboytYvBU_Xj2izxOIdQHC2qZVEx2RatRtA4UEdAO2ICRnPuzzAntsemhjHfu_BoF-V28hPdbXOca7E4HQRezzRM3Y6FaoFWFN_b5w1cWvYgjHg-1N1IlvB9Dsmv3xNKyLB0NOcnUcwIn9ees3gYoMfNOhFpVaSpP6HRgXhREbBCXfDvnU4rHkWrhnrIdUAuLsVi9BD24r4bemiAcQz-iW5alaFxi8W4Hd6NoMRYllZyn_LCpVyXzg2hNukFsMNYdhsfH5iyvCXhQAJEElt4iiCcNT0KpJ-2uhOhPW-B0RCkm-lAV7wrPVebU0sDD2ZOuBF_nJDB37Q2H43ZUKLp0mk7xFfI4MtOGW0834UJj2f_vYsA04JfyKo6_OSpgcy51lutxJK7P13hixX0Yco6Vooxt1GXPV5iyRnH8TP900zRDD3miMpOCjW7DK8y-iDEvRCFRx3PzoK4qT8Qymdrv3ha6-KqBgaz2rf2rK2_vym6WWX2mAGRmFP6HDvuX8INJFZY_BieDT-Nxy6cgVSzye6xS3TNMNcEJhflwDkuIiXcAWKKXkgYvj1HVpHre6Um2yBWUYmPbtA-p4nkDrJYJZ24N4kgJXbi8CQqvV-ASIknKiAjJVHANTndl0CrDi_XUiZOFIUvJcndt9llf1RDLVXju6AALc4EB8iSBsN=w1366-h455-no?authuser=0"
+cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
@@ -24,6 +23,7 @@ subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
 twitter: nhungngaycuoituan # replace by your username
+instagram: nhungngaycuoituan # replace by your username
 facebook: nhungngaycuoituan # replace by your username
 
 # Disqus
