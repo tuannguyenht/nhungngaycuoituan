@@ -9,9 +9,10 @@ words_per_minute: 200
 baseurl: /
 
 # Website info
+#assets/images/blog-cover.jpg
 title: Weekends
 description: Những ngày cuối tuần
-cover: https://coverfiles.alphacoders.com/785/thumb-1920-78582.jpg #assets/images/blog-cover.jpg
+cover: https://doc-04-7o-docs.googleusercontent.com/docs/securesc/ncmbatpkehf4gdaqdqfufvuqj5b1a2s3/93c0c2vc9bddchk4vg48915o4t2la1ll/1618884075000/07963243386861278033/07723801907113206365Z/1ro0JiUdLlfdCsEW1Hra7FFh_oCfHRhlB
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
