@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/grapes.jpg
+cover: https://i.vgy.me/ZTEU64.jpg
 navigation: True
 title: The Purpose of Education
 date: 1948-12-12 10:18:00

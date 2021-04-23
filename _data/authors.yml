@@ -49,7 +49,7 @@ abraham:
   url_full: False
   url: False
   bio: I was the 16th president of the USA until I was assassinated in April of 1865. I led the US through its Civil War - its bloodiest and greatest moral, constitutional and political crisis.
-  picture: assets/images/abraham.jpg
+  picture: https://i.vgy.me/5WKAh7.jpg
   facebook: False
   twitter: False
   cover: False
@@ -60,7 +60,7 @@ edgar:
   url_full: False
   url: False
   bio: I'm an American novelist, best known for my work writing about a brave jungle hero called Tarzan and his muse, Jane.
-  picture: assets/images/edgar.gif
+  picture: https://i.vgy.me/8mjkrm.gif
   facebook: False
   twitter: False
   cover: False

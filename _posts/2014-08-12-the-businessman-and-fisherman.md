@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/water.jpg
+cover: https://i.vgy.me/woHQpH.jpg
 navigation: True
 title: The Businessman & The Fisherman
 date: 2014-08-12 10:18:00

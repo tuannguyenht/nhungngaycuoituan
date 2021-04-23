@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/summit.jpg'
+cover: https://i.vgy.me/1CtIJG.jpg
 navigation: True
 title: Looking-Glass house
 date: 1871-03-18 10:18:00
