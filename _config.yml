@@ -11,7 +11,7 @@ baseurl: /
 # Website info
 title: Weekends
 description: from Fridei to Sundei
-cover: https://free4kwallpapers.com/uploads/wallpaper-cache/mount-aragats-and-stars-on-the-night-sky-wallpaper-1300x0-MM-100.jpg
+cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
