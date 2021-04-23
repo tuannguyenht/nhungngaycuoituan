@@ -1,7 +1,28 @@
 fridei:
   username: fridei
   name: Fridei
-  location: Honolulu
+  location: Honolulu, US
+  url_full: https://fridei.nhungngaycuoituan.com
+  url: fridei.nhungngaycuoituan.com
+  bio: The professional publishing platform
+  picture: https://tinyurl.com/vc2ncv3d
+  facebook: frideipatronus
+  twitter: False
+  cover: https://coverfiles.alphacoders.com/485/48548.jpg
+ sundei:
+  username: sundei
+  name: Sundei
+  location: on The Mar
+  url_full: http://sundei.nhungngaycuoituan.com
+  url: sundei.nhungngaycuoituan.com
+  bio: Founder at nhungngaycuoituan.com. A fulltack developer, always thinking about interesting project ideas to work on. Travels the world with a bag of curiosities.
+  picture: https://tinyurl.com/abnj7a43
+  facebook: tuannguyen612
+  twitter: False
+  cover: https://149351115.v2.pressablecdn.com/wp-content/uploads/2017/02/TheDeveloperCoverLetter-1024x395.jpg
+ghost:
+  username: ghost
+  name: Ghost
   url_full: http://jekyller.github.io/jasper2/
   url: jekyller.github.io/jasper2
   bio: The professional publishing platform
@@ -9,9 +30,9 @@ fridei:
   facebook: ghost
   twitter: tryghost
   cover: False
-sundei:
-  username: sundei
-  name: Sundei
+hannah:
+  username: hannah
+  name: Hannah Wolfe
   location: London, UK
   url_full: http://hannah.wf/
   url: hannah.wf
