@@ -13,7 +13,7 @@ highlighter: rouge
 paginate: 100
 language: en-uk
 words_per_minute: 200
-baseurl: "/"
+baseurl: "/nhungngaycuoituan"
 description: from Fridei to Sundei
 cover: https://i.vgy.me/4iEoYX.jpg
 logo: assets/images/blog-icon.png
